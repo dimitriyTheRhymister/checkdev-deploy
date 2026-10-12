@@ -1,0 +1,9 @@
+# PostgreSQL data (volumes)
+postgres-data/
+
+# Logs
+*.log
+
+# IDE
+.idea/
+*.iml
